@@ -6,10 +6,9 @@ This is a full-stack Book Management App built using **MongoDB, Express.js, Reac
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel):** [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
-- **Backend (Render):** [https://your-backend.onrender.com](https://your-backend.onrender.com)
+- **Frontend (Vercel):** (https://book-management-61re.vercel.app/)
+- **Backend (Render):** (https://book-management-19jv.onrender.com/api)
 
-> ⚠️ Replace the above URLs with your actual deployed links.
 
 ---
 
